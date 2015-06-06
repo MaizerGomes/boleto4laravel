@@ -16,7 +16,8 @@
 			"database"
 		],
 		"psr-4": {
-			"App\\": "app/"
+			"App\\": "app/",
+            "App\\boleto4laravel\\": "boleto4laravel/src/"
 		}
 	},
 	"autoload-dev": {
